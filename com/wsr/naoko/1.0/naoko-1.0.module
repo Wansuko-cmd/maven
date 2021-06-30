@@ -29,11 +29,11 @@
         {
           "name": "naoko-1.0.jar",
           "url": "naoko-1.0.jar",
-          "size": 77353,
-          "sha512": "13491dfe5a619f1b743c33089198386af42df1617b9c6a3dcbe947bf0aa61fd67ac4884e57a7cd1a530b185130b25ba75db6980998460ffcc436be674ec87937",
-          "sha256": "572cdbfa0f34f0fb6ec1f88176d5c12e6be62d6003c7f9bb2c993a6ec8b9453a",
-          "sha1": "4311c5d085ad03cde9f5935e4df4af3cc5544dd8",
-          "md5": "f906878d570e9dfee165b36f2f00dd8a"
+          "size": 76867,
+          "sha512": "53cb8526f7ec435c6f91d4bc61630adb5a2ab4c3ae3343a68d8d397a4fd37a84e9d0fe586e2f37099db643bd7827c1dd33a4ecc24007a857e7716ebefbe1d4b3",
+          "sha256": "91e83702ea1f6f627f7a564e8ea3dd8ad8ea7abbb87c8749c30eb7a0f066e2cc",
+          "sha1": "94f6ad07a692ea9197da95de911f7debb59c959e",
+          "md5": "4dd7e3da5c0912cf9b82702c08eacdb4"
         }
       ]
     },
@@ -100,11 +100,11 @@
         {
           "name": "naoko-1.0.jar",
           "url": "naoko-1.0.jar",
-          "size": 77353,
-          "sha512": "13491dfe5a619f1b743c33089198386af42df1617b9c6a3dcbe947bf0aa61fd67ac4884e57a7cd1a530b185130b25ba75db6980998460ffcc436be674ec87937",
-          "sha256": "572cdbfa0f34f0fb6ec1f88176d5c12e6be62d6003c7f9bb2c993a6ec8b9453a",
-          "sha1": "4311c5d085ad03cde9f5935e4df4af3cc5544dd8",
-          "md5": "f906878d570e9dfee165b36f2f00dd8a"
+          "size": 76867,
+          "sha512": "53cb8526f7ec435c6f91d4bc61630adb5a2ab4c3ae3343a68d8d397a4fd37a84e9d0fe586e2f37099db643bd7827c1dd33a4ecc24007a857e7716ebefbe1d4b3",
+          "sha256": "91e83702ea1f6f627f7a564e8ea3dd8ad8ea7abbb87c8749c30eb7a0f066e2cc",
+          "sha1": "94f6ad07a692ea9197da95de911f7debb59c959e",
+          "md5": "4dd7e3da5c0912cf9b82702c08eacdb4"
         }
       ]
     }

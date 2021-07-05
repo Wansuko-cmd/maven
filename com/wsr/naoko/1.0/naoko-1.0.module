@@ -1,0 +1,112 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.wsr",
+    "module": "naoko",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 13,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "naoko-1.0.jar",
+          "url": "naoko-1.0.jar",
+          "size": 79042,
+          "sha512": "7613cf43883adc6005d7c7a9e85eaf68596bb104473664f77ae4bc1e41bc35d90ae1766f6d8a0cb06fba33b0279c770342021b6e7bccca8aeb453a7556bd0c23",
+          "sha256": "c947aa11cb7f0ff6865078ad430b25138dc0215d40653202bf7a0e11987b8678",
+          "sha1": "24dba2016bde4b6b3ab6aa6c5cb207584e0d74b5",
+          "md5": "daa9253e5ae402de262938775cac66fe"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 13,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-bom",
+          "version": {
+            "requires": "1.5.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-cio",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-serialization",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.5.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "naoko-1.0.jar",
+          "url": "naoko-1.0.jar",
+          "size": 79042,
+          "sha512": "7613cf43883adc6005d7c7a9e85eaf68596bb104473664f77ae4bc1e41bc35d90ae1766f6d8a0cb06fba33b0279c770342021b6e7bccca8aeb453a7556bd0c23",
+          "sha256": "c947aa11cb7f0ff6865078ad430b25138dc0215d40653202bf7a0e11987b8678",
+          "sha1": "24dba2016bde4b6b3ab6aa6c5cb207584e0d74b5",
+          "md5": "daa9253e5ae402de262938775cac66fe"
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "component": {
     "group": "com.wsr",
     "module": "naoko",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,8 +27,8 @@
       },
       "files": [
         {
-          "name": "naoko-1.0.4.jar",
-          "url": "naoko-1.0.4.jar",
+          "name": "naoko-1.0.5.jar",
+          "url": "naoko-1.0.5.jar",
           "size": 79868,
           "sha512": "29ad2fd4cc1bd24d6eb70fa2f434774923af7c609cec86a3e6641908b69f19fdec5950ca420eb87067246bad4d2e6f226a721238cd16fb678a3314759bedc7f6",
           "sha256": "b45ad454ce2f98c7ca093ff9644709136a2e7464bd33a81500300776baf27d8e",
@@ -98,8 +98,8 @@
       ],
       "files": [
         {
-          "name": "naoko-1.0.4.jar",
-          "url": "naoko-1.0.4.jar",
+          "name": "naoko-1.0.5.jar",
+          "url": "naoko-1.0.5.jar",
           "size": 79868,
           "sha512": "29ad2fd4cc1bd24d6eb70fa2f434774923af7c609cec86a3e6641908b69f19fdec5950ca420eb87067246bad4d2e6f226a721238cd16fb678a3314759bedc7f6",
           "sha256": "b45ad454ce2f98c7ca093ff9644709136a2e7464bd33a81500300776baf27d8e",

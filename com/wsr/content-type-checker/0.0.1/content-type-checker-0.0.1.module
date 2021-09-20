@@ -1,0 +1,91 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.wsr",
+    "module": "content-type-checker",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 13,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "content-type-checker-0.0.1.jar",
+          "url": "content-type-checker-0.0.1.jar",
+          "size": 13375,
+          "sha512": "8d5c50181ffe6683c7e2e9fef08bbbc23d808b267d49e333389d496d334446182f17d6314331673c8f2516eae4cf3c4896d4dad36ab22fac032d977640f9802e",
+          "sha256": "c314cdb50daaa76e2b97e2b15086d6e1edd170383da5d3c7be01b4bd5709a53a",
+          "sha1": "a79ee5b7e00786572f0263650b0c9e9ca644880e",
+          "md5": "585e9e1a7c8c2e1bc9225d509a8f6405"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 13,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.localToProject": "public",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-bom",
+          "version": {
+            "requires": "1.5.30"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.30"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-server-core",
+          "version": {
+            "requires": "1.6.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "content-type-checker-0.0.1.jar",
+          "url": "content-type-checker-0.0.1.jar",
+          "size": 13375,
+          "sha512": "8d5c50181ffe6683c7e2e9fef08bbbc23d808b267d49e333389d496d334446182f17d6314331673c8f2516eae4cf3c4896d4dad36ab22fac032d977640f9802e",
+          "sha256": "c314cdb50daaa76e2b97e2b15086d6e1edd170383da5d3c7be01b4bd5709a53a",
+          "sha1": "a79ee5b7e00786572f0263650b0c9e9ca644880e",
+          "md5": "585e9e1a7c8c2e1bc9225d509a8f6405"
+        }
+      ]
+    }
+  ]
+}

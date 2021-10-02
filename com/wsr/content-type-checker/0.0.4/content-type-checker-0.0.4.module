@@ -30,10 +30,10 @@
           "name": "content-type-checker-0.0.4.jar",
           "url": "content-type-checker-0.0.4.jar",
           "size": 26356,
-          "sha512": "0877fe164191ffbf2e9e5618e366bf872b34458527cd0a12f863b90bfa582acf6c380efe80a009702ad2108aeca0d1594571b6d38b1445bb9a5f77ec6c51fdd8",
-          "sha256": "2338bf6eea228581fc6d060a091d232ca3c373a2b849100af99f845c6eedd802",
-          "sha1": "a336c76a8874fd5d686da9c7abf07b36d2798d48",
-          "md5": "f2ec29bdb2b460e1fa12cc5b9f049290"
+          "sha512": "57f8e10f04e30bb44ca40829bf87a0818ee74dbac6306e635026b635ef4d63918d940ddfac7aaf2dd1da5435d4384f6d2a6fe3ece400928ead30b9b26d09f3a1",
+          "sha256": "99721d57d36b038a911707c0cede39442ab3c7ad7502cadc00cf575ec46ca5bc",
+          "sha1": "ac731e5ad2bd3ca226b02825dd2c82fd7a2826ac",
+          "md5": "a5780e067e17fe9fcf655507d04b0ea3"
         }
       ]
     },
@@ -80,10 +80,10 @@
           "name": "content-type-checker-0.0.4.jar",
           "url": "content-type-checker-0.0.4.jar",
           "size": 26356,
-          "sha512": "0877fe164191ffbf2e9e5618e366bf872b34458527cd0a12f863b90bfa582acf6c380efe80a009702ad2108aeca0d1594571b6d38b1445bb9a5f77ec6c51fdd8",
-          "sha256": "2338bf6eea228581fc6d060a091d232ca3c373a2b849100af99f845c6eedd802",
-          "sha1": "a336c76a8874fd5d686da9c7abf07b36d2798d48",
-          "md5": "f2ec29bdb2b460e1fa12cc5b9f049290"
+          "sha512": "57f8e10f04e30bb44ca40829bf87a0818ee74dbac6306e635026b635ef4d63918d940ddfac7aaf2dd1da5435d4384f6d2a6fe3ece400928ead30b9b26d09f3a1",
+          "sha256": "99721d57d36b038a911707c0cede39442ab3c7ad7502cadc00cf575ec46ca5bc",
+          "sha1": "ac731e5ad2bd3ca226b02825dd2c82fd7a2826ac",
+          "md5": "a5780e067e17fe9fcf655507d04b0ea3"
         }
       ]
     }
